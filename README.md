@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @celioalonso Jr Software Developer Ruby on Rails / PHP / JavaScript / Node JS
+- 👋 Hi, I’m @celioalonso Jr Software Developer Ruby on Rails / PHP / JavaScript / Node Js
 - 👀 I’m interested in new tecnologies, new softwares, data base and app Design
 - 🌱 I’m currently learning Advanced Ruby on Rails , Node Js and JavaScript
 - 💞️ I’m looking to collaborate on new apps ideas, ruby on rails projects and new ideas about IA
