@@ -2,7 +2,7 @@
 - 👀 I’m interested in new tecnologies, new softwares, data base and app Design
 - 🌱 I’m currently learning Advanced Ruby on Rails , Node Js and JavaScript
 - 💞️ I’m looking to collaborate on new apps ideas, ruby on rails projects and new ideas about IA
-- 📫 How to reach me is: celioalonso@gmail.com
+- 📫 How to reach me is: taonlinedev@gmail.com
 
 <!---
 celioalonso/celioalonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
