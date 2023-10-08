@@ -1,4 +1,4 @@
-Hi, I’m Celio T. Alonso Full Stack Developer. I have knowledge in  HTML | CSS | JavaScript | Ruby | Ruby on Rails | PHP | Laravel | Node Js | Android | React 
+Hi, I’m Celio T. Alonso Mobile Developer. I have knowledge in   Kotlin | Flutter | HTML | CSS | JavaScript | Ruby | Ruby on Rails | PHP | Laravel | Node Js | Android | React 
 <div align="center">
   <a href="https://github.com/celioalonso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celioalonso&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
